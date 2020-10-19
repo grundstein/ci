@@ -1,0 +1,22 @@
+{
+  "name": "@grundstein/ci",
+  "version": "0.0.1",
+  "description": "grundstein corporate identity package",
+  "scripts": {
+    "format": "f -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grundstein/ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grundstein/ci/issues"
+  },
+  "homepage": "https://github.com/grundstein/ci#readme",
+  "devDependencies": {
+    "@magic/format": "0.0.17"
+  }
+}
